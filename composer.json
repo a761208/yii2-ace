@@ -1,5 +1,5 @@
 {
-    "name": "cornernote/yii2-ace",
+    "name": "a761208/yii2-ace",
     "description": "Ace admin theme for Yii2.",
     "keywords": ["yii2", "ace", "theme"],
     "type": "yii2-extension",
@@ -30,7 +30,7 @@
     },
     "extra": {
         "asset-installer-paths": {
-            "bower-asset-library": "vendor/bower"
+            "bower-asset-library": "vendor/bower-asset"
         }
     }
 }
